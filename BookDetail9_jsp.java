@@ -3,7 +3,7 @@ import javax.servlet.http.*;
 import javax.servlet.jsp.*;
 import org.apache.jasper.runtime.*;
 
-public class BookDetail9_jsp extends HttpJspBase {
+public class BookDetail9_jsp extends HttpJspBase { // change to class name that matches the file name
 
 
 //
