@@ -3,7 +3,9 @@ import javax.servlet.http.*;
 import javax.servlet.jsp.*;
 import org.apache.jasper.runtime.*;
 
-public class BookDetail9_jsp extends HttpJspBase { // change to class name that matches the file name
+public class BookDetail9_jsp extends HttpJspBase { 
+// change to class name that matches the file name
+// another comment
 
 
 //
@@ -12,6 +14,7 @@ public class BookDetail9_jsp extends HttpJspBase { // change to class name that 
 //   JSP.ccp build 05/21/2001
 //
 
+  
   static final String CRLF = "\r\n";
 
   static final int UNDEFINT=Integer.MIN_VALUE;
